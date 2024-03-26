@@ -32,13 +32,13 @@ const bgRandom = Math.floor(Math.random() * 10 + 1);
 // 更换壁纸链接
 const changeBg = (type) => {
   if (type == 0) {
-    bgUrl.value = `https://bing.ee123.net/img/`;
+    bgUrl.value = `https://cdn.anye.xyz/background.jpg`;
   } else if (type == 1) {
-    bgUrl.value = "https://bing.ee123.net/img/4K";
+    bgUrl.value = "https://cdn.anye.xyz/background.jpg";
   } else if (type == 2) {
-    bgUrl.value = "https://bing.ee123.net/img/4K";
+    bgUrl.value = "https://cdn.anye.xyz/background.jpg";
   } else if (type == 3) {
-    bgUrl.value = "https://bing.ee123.net/img/4K";
+    bgUrl.value = "https://cdn.anye.xyz/background.jpg";
   }
 };
 
