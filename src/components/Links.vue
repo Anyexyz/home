@@ -43,7 +43,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Docker } from "@vicons/fa";
+import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Docker, PhotoVideo } from "@vicons/fa";
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper";
@@ -71,6 +71,7 @@ const siteIcon = {
   Fire,
   LaptopCode,
   Docker,
+  PhotoVideo,
 };
 
 // 链接跳转
