@@ -15,13 +15,13 @@
     "link": "https://www.anye.xyz/photos"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.anye.in/"
-  },
-  {
     "icon": "Docker",
     "name": "Docker Proxy",
     "link": "https://mirror.anye.in/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.anye.in/"
   }
 ]
