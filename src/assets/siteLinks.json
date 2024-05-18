@@ -18,10 +18,5 @@
     "icon": "Docker",
     "name": "Docker Proxy",
     "link": "https://mirror.anye.in/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.anye.xyz/"
   }
 ]
