@@ -1,21 +1,21 @@
 [
   {
     "name": "Github",
-    "icon": "/images/icon/github.png",
+    "icon": "/home/images/icon/github.png",
     "tip": "去 Github 看看",
     "url": "https://github.com/Anyexyz",
     "alt": "Github"
   },
   {
     "name": "Email",
-    "icon": "/images/icon/email.png",
+    "icon": "/home/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:anyexyz@foxmail.com",
     "alt": "Email"
   },
   {
     "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
+    "icon": "/home/images/icon/telegram.png",
     "tip": "你懂的 ~",
     "url": "https://t.me/Anyexyz",
     "alt": "Telegram"

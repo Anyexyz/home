@@ -49,7 +49,7 @@ const policeRecord = ref(import.meta.env.VITE_POLICE_RECORD);
 const siteAnthor = ref(import.meta.env.VITE_SITE_ANTHOR);
 const siteUrl = computed(() => {
   const url = import.meta.env.VITE_SITE_URL;
-  if (!url) return "https://anye.xyz";
+  if (!url) return "https://www.anye.xyz";
   // 判断协议前缀
   if (!url.startsWith("http://") && !url.startsWith("https://")) {
     return "//" + url;
